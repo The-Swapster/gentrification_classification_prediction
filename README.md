@@ -8,7 +8,7 @@ Open file > [data_label_creation.ipynb](data_label_creation.ipynb) > Run All
 Open file > [dataprep_eda.ipynb](dataprep_eda.ipynb) > Run All
 
 ## For Feature Engineering, Binary classification models and SHAP analysis
-Open file > [fe_models_shap.ipynb.ipynb](fe_models_shap.ipynb) > Run All
+Open file > [fe_models_shap.ipynb](fe_models_shap.ipynb) > Run All
 
 ## For cluster analysis (K-means)
 Open file > [clustering.ipynb](clustering.ipynb) > Run All
