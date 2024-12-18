@@ -1,7 +1,7 @@
 # A Comprehensive Machine Learning and Geospatial Approach for Gentrification Detection and Prediction
 
 ## For Dataset creation
-Open File > [dataset_combine.ipynb](dataset_combine.ipynb) > Run All \\
+Open File > [dataset_combine.ipynb](dataset_combine.ipynb) > Run All <br>
 Open file > [data_label_creation.ipynb](data_label_creation.ipynb) > Run All
 
 ## For EDA
