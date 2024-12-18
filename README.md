@@ -2,7 +2,7 @@
 
 ## For Dataset creation
 Open File > [dataset_combine.ipynb](dataset_combine.ipynb) > Run All
-Open file > [data_label_creation.ipynb](data_label_creation.ipynb) > Run All
+\n Open file > [data_label_creation.ipynb](data_label_creation.ipynb) > Run All
 
 ## For EDA
 Open file > [dataprep_eda.ipynb](dataprep_eda.ipynb) > Run All
